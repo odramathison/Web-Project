@@ -27,12 +27,12 @@ Autor: Odra Mathison
 ## Recursos
 
 
-[Pagina scraping]('https://es.investing.com/equities/')
+# 'https://es.investing.com/equities/'
 
 
 
 ## Requerimientos
 
-.- Libreria Pandas.
-.- Libreria Selenium.
-.- Jupyter Notebook.
+* Libreria Pandas.
+* Libreria Selenium.
+* Jupyter Notebook.
