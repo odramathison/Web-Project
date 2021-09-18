@@ -1,7 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-#  | Web Proyect
-
+# Web-Project
 
 ## Introducción
 
@@ -23,18 +22,19 @@ Autor: Odra Mathison
 ## Entregables.
 
 - `Web Proyect.ipynb`.
-- 'acciones.csv'
+- `acciones.csv`
+
 
 
 ## Recursos
 
 
-[Pagina scraping]('https://es.investing.com/equities/')
+# 'https://es.investing.com/equities/'
 
 
 
 ## Requerimientos
 
-.- Libreria Pandas.
-.- Libreria Selenium.
-.- Jupyter Notebook.
+* Libreria Pandas.
+* Libreria Selenium.
+* Jupyter Notebook.
